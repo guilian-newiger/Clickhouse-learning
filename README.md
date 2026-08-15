@@ -5,6 +5,8 @@ For this goal, I not only have to understand theoretical concepts but I have to 
 
 In this repository I curate my experiences in a structured format in order to revisit past learnings, follow my own progress and demonstrate potential future DBMS employers my domain knowledge, analytical skills and documentation prowess.
 
+Disclaimer: In my documentation I refer to code snippets from the GitHub repository of ClickHouse (https://github.com/clickhouse/clickhouse). These references are for educational purposes only.
+
 ## Structure
 This repository contains my curated experiences from inspecting how ClickHouse works under the hood to understand how theoretical DBMS concepts are implemented in practice.
 
